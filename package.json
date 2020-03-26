@@ -1,0 +1,30 @@
+{
+  "name": "@enso-ui/route-mapper",
+  "version": "1.0.0",
+  "description": "Laravel route-mapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enso-ui/route-mapper.git"
+  },
+  "keywords": [
+    "route-mapper",
+    "vue"
+  ],
+  "author": "Adrian Ocneanu <aocneanu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enso-ui/route-mapper/issues"
+  },
+  "homepage": "https://github.com/enso-ui/route-mapper#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "babel-eslint": "^10.0.1",
+    "cross-env": "^6.0.0",
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {}
+}

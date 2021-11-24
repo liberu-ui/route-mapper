@@ -9,7 +9,7 @@
 Laravel route mapper
 
 ## Usage
-All components can be used outside of the Enso ecosystem.
+All components can be used outside the Enso ecosystem.
 
 ### Demo
 

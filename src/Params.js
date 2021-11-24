@@ -14,7 +14,7 @@ class Params {
 
     const value = Array.isArray(this.params)
       ? this.params.shift()
-      : this.params[key].id ?? this.params[key];
+      : this.params[key]?.id ?? this.params[key];
 
     if (typeof value === 'undefined' && !isOptional) {
       throw new MissingParam(key);

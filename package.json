@@ -1,5 +1,5 @@
 {
-  "name": "@enso-ui/route-mapper",
+  "name": "@cgdsoftware/route-mapper",
   "version": "1.0.10",
   "description": "Laravel route-mapper",
   "main": "index.js",

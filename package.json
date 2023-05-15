@@ -1,5 +1,5 @@
 {
-  "name": "@cgdsoftware/route-mapper",
+  "name": "@liberu-ui/route-mapper",
   "version": "1.0.10",
   "description": "Laravel route-mapper",
   "main": "index.js",

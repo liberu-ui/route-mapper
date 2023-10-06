@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/route-mapper",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Laravel route-mapper",
   "main": "index.js",
   "scripts": {

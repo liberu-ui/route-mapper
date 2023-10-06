@@ -1,10 +1,10 @@
 # Route Mapper
 
-![npm license](https://img.shields.io/npm/l/@enso-ui/route-mapper.svg) 
-![npm download](https://img.shields.io/npm/dm/@enso-ui/route-mapper.svg) 
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/route-mapper.svg) 
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/route-mapper.svg) 
-![npm version](https://img.shields.io/npm/v/@enso-ui/route-mapper.svg) 
+![npm license](https://img.shields.io/npm/l/@liberu-ui/route-mapper.svg) 
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/route-mapper.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/route-mapper.svg) 
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/route-mapper.svg) 
+![npm version](https://img.shields.io/npm/v/@liberu-ui/route-mapper.svg) 
 
 Laravel route mapper
 
